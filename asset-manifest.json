@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/beatrizfontao/FEUP-TAIM/static/css/main.6312c5fa.css",
+    "main.js": "/beatrizfontao/FEUP-TAIM/static/js/main.c3115372.js",
+    "static/js/453.ddf3fa55.chunk.js": "/beatrizfontao/FEUP-TAIM/static/js/453.ddf3fa55.chunk.js",
+    "static/media/sunscope.png": "/beatrizfontao/FEUP-TAIM/static/media/sunscope.12f0d6ff13cdbf89c188.png",
+    "index.html": "/beatrizfontao/FEUP-TAIM/index.html",
+    "main.6312c5fa.css.map": "/beatrizfontao/FEUP-TAIM/static/css/main.6312c5fa.css.map",
+    "main.c3115372.js.map": "/beatrizfontao/FEUP-TAIM/static/js/main.c3115372.js.map",
+    "453.ddf3fa55.chunk.js.map": "/beatrizfontao/FEUP-TAIM/static/js/453.ddf3fa55.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6312c5fa.css",
+    "static/js/main.c3115372.js"
+  ]
+}
