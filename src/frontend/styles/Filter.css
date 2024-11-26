@@ -1,0 +1,9 @@
+.fixed-popover {
+    position: absolute;
+    right: 10%; /* Align to the right edge with some padding */
+    width: 15%;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    font-size: 1.1em;
+}   
