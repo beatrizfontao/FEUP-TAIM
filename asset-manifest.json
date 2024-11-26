@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/FEUP-TAIM/static/css/main.6312c5fa.css",
+    "main.js": "/FEUP-TAIM/static/js/main.6111064c.js",
+    "static/js/453.ddf3fa55.chunk.js": "/FEUP-TAIM/static/js/453.ddf3fa55.chunk.js",
+    "static/media/sunscope.png": "/FEUP-TAIM/static/media/sunscope.12f0d6ff13cdbf89c188.png",
+    "index.html": "/FEUP-TAIM/index.html",
+    "main.6312c5fa.css.map": "/FEUP-TAIM/static/css/main.6312c5fa.css.map",
+    "main.6111064c.js.map": "/FEUP-TAIM/static/js/main.6111064c.js.map",
+    "453.ddf3fa55.chunk.js.map": "/FEUP-TAIM/static/js/453.ddf3fa55.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6312c5fa.css",
+    "static/js/main.6111064c.js"
+  ]
+}
